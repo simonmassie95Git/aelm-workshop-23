@@ -2,7 +2,7 @@ name: Golang build
 
 on:
   # https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#filter-pattern-cheat-sheet
-   workflow_dispatch:
+  workflow_dispatch:
   push:
     branches:
       - '**'
