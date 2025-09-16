@@ -157,3 +157,5 @@ In general I tried to work in a branching structure which is named as followed s
 ## Task 2 - Release
 
 GitHub has a built-in release mechanism, that you can access through the UI. Important for the builds to check out when 
+
+test
